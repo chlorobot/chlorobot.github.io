@@ -55,10 +55,17 @@ gardeners might use their mobile phone to provision a configuration for whicheve
 <a target="_blank" href="https://www.amazon.ca/gp/product/B000BPF22U/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B000BPF22U&linkCode=as2&tag=chlorobot-20&linkId=c3233a550220a9a552973e437d406c02">REFLECTIX BP24010 24"x10' Foil Insulation</a><img src="//ir-ca.amazon-adsystem.com/e/ir?t=chlorobot-20&l=am2&o=15&a=B000BPF22U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </em>
 
+<img src="/images/fulls/06.jpg" class="fit image">
+<em>Installing the first-gen light</em>
+
 <img src="/images/fulls/04.jpg" class="fit image">
 <em>This LED grow light has beer replaced by a
 <a target="_blank" href="https://www.amazon.ca/gp/product/B01G8AXP48/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B01G8AXP48&linkCode=as2&tag=chlorobot-20&linkId=596ad7287b345e8a9d7198b936154617">VIPARSPECTRA Reflector-Series 300W LED Grow Light Full Spectrum for Indoor Plants Veg and Flower</a><img src="//ir-ca.amazon-adsystem.com/e/ir?t=chlorobot-20&l=am2&o=15&a=B01G8AXP48" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </em>
+
+<img src="/images/fulls/05.jpg" class="fit image">
+<em>The DHT11 sensor works rather well and matches the temperature of the Nest thermostat</em>
+
 
 
 ### Parts List (will be updated regularly)
