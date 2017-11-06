@@ -2,7 +2,8 @@ locale: "en-US"
 title: ChloroBot - The Automated Indoor Garden # Title of your site
 url: "https://chlorobot.com" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
-google_analytics_key: ""
+google_analytics_key: "UA-109251599-1"
+
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: > # this means to ignore newlines until "baseurl:"
