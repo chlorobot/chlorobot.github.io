@@ -1,8 +1,0 @@
----
-layout: post
-title:  "The Plan"
-date:  Sun Nov  5 18:52:26 EST 2017
-categories: partslist planning automation engineering adafruit
----
-
-
