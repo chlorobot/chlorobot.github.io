@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Plan"
+title:  "The Plan - Indoor Garden Automation"
 date:  Fri Nov  3 10:21:01 EST 2017
 categories: ideas horticulture autonomous raspberry pi amazon diy
 ---
