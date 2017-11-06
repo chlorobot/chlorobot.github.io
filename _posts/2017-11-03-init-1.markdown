@@ -11,27 +11,28 @@ TL;DR - This is a log of my attempt to build an indoor, open source, automated s
 
 ### What?
 
-It's cold in Toronto; I love hot peppers, I also kill plants.  I want to be able to grow the best hot peppers year-round.
-
-Because of these reasons I modified a 3.2 cubic foot refrigerator and jam-packed it full of processors, sensors, electricity,
-dirt, nutrients and water to build a learning, fully-automated indoor garden system.
-
 A Rasberry Pi controls :
 
-* Water flow / soil humidity
+* Water flow and soil humidity
 * Fan speed
 * Soil temperature
 * Lighting
 * Aeration of water
 * Camera (just because)
-* Probably more things ... soon
 
 A mobile phone controls :
 
 * All of the above
 
-Maybe in the future more people will want something like this so I'm indexing the settings for each type of plant I grow - in hopes a community of 
-gardeners might use their mobile phone to provision a configuration for whichever plant they are growing using their own 'ChloroBot'.
+
+### Why?
+
+Short answer : "Because I can"
+
+It's cold in Toronto; I love hot peppers, I also neglect my plants.  I want to be able to grow delicious hot peppers year-round.
+
+Because of these reasons I modified a 3.2 cubic foot refrigerator and jam-packed it full of processors, sensors, electricity,
+dirt, nutrients and water to build a learning, fully-automated indoor garden system.
 
 
 ### Project goals
@@ -71,6 +72,22 @@ gardeners might use their mobile phone to provision a configuration for whicheve
 <img src="/images/fulls/05.jpg" class="fit image">
 <em>The DHT11 sensor works rather well and matches the temperature of the Nest thermostat</em>
 
+
+### What's left to do? (a lot!)
+
+* Complete the <a href="https://github.com/chlorobot/chlorobot-app" target="_blank">API and frontend code</a>
+* Install carbon filter and fans
+* Install the water pump
+* Find a soil humidity and temperature sensor that doesn't suck
+* Replace the IoT mains relay controller with one that allows control on all mains
+* Call Purolator, the 'grow mat' has been "on the truck" since halloween
+* Install new 300w LED matrix
+* Investigate replacing dirt with either polyurethane grow slabs or maybe clay pellets
+* Replace NOOBS image with headless Debian on the Pi
+
+... and probably much more.
+
+I'll keep this post updated with any new interesting changes.
 
 
 ### Parts List (will be updated regularly)
