@@ -31,7 +31,9 @@ Full disclosure : All links to Amazon are affiliate links, products I myself hav
 </em>
 
 <img src="/images/fulls/04.jpg" class="fit image">
-<em>I now have a light to make the plants grow!</em>
+<em>This LED grow light has beer replaced by a
+<a target="_blank" href="https://www.amazon.ca/gp/product/B01G8AXP48/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B01G8AXP48&linkCode=as2&tag=chlorobot-20&linkId=596ad7287b345e8a9d7198b936154617">VIPARSPECTRA Reflector-Series 300W LED Grow Light Full Spectrum for Indoor Plants Veg and Flower</a><img src="//ir-ca.amazon-adsystem.com/e/ir?t=chlorobot-20&l=am2&o=15&a=B01G8AXP48" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+</em>
 
 
 ### Parts List (will be updated regularly)
