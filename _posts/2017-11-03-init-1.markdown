@@ -26,8 +26,12 @@ A Rasberry Pi controls :
 * Camera (just because)
 * Probably more things ... soon
 
-Maybe in the future more people will want something like this so I'm indexing the settings for each type of plant I grow - in hopes a community of gardeners might use their mobile phone to provision a configuration for whichever plant they are growing
-using their own modified refrigerator.
+A mobile phone controls :
+
+* All of the above
+
+Maybe in the future more people will want something like this so I'm indexing the settings for each type of plant I grow - in hopes a community of 
+gardeners might use their mobile phone to provision a configuration for whichever plant they are growing using their own modified refrigerator.
 
 
 ### Project goals :
