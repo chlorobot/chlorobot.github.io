@@ -1,0 +1,44 @@
+locale: "en-US"
+title: ChloroBot - The Automated Indoor Garden # Title of your site
+url: "https://chlorobot.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+google_analytics_key: ""
+
+# Default description in social shares for the jekyll-seo-tag gem
+description: > # this means to ignore newlines until "baseurl:"
+    A collection of journal entries in the quest of building an autonomous horticulture system.
+
+
+# Author details for the jekyll-seo-tag gem
+author:
+  name: chlorobot
+  email: hello@chlorobot.com
+
+# Social details for the jekyll-seo-tag gem
+social:
+  name: ChloroBot
+  links:
+    - https://github.com/chlorobot
+
+permalink: pretty
+
+gems:
+  - "jekyll-feed"
+  - "jekyll-seo-tag"
+  - "jekyll-paginate"
+  - "jekyll-sitemap"
+
+# Jekyll SEO Tag
+webmaster_verifications:
+  google:  #
+
+# -----------
+# CloudCannon
+# social_icons:
+#   - Google Plus
+#   - Instagram
+#   - Pinterest
+#   - Tumblr
+#   - Twitter
+#   - YouTube
+#   - RSS
