@@ -5,7 +5,7 @@ date:  Fri Nov  3 10:21:01 EST 2017
 categories: ideas horticulture autonomous raspberry pi amazon diy
 ---
 
-TL;DR - This is a log of my attempt to build an indoor, open source, automated system to grow plants.
+TL;DR - This is a log of my attempt to build an indoor, open source, automated system to grow all sorts of plants.
 
 <img src="/images/fulls/08.jpg" class="fit image">
 
