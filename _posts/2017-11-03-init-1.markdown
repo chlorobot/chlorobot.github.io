@@ -11,7 +11,7 @@ TL;DR - This is a log of my attempt to build an indoor, open source, automated s
 
 ### What?
 
-It's cold in Toronto; I love hot peppers, I also kill plants.  I want to be able to grow the best hot peppers year-round with ease.
+It's cold in Toronto; I love hot peppers, I also kill plants.  I want to be able to grow the best hot peppers year-round.
 
 Because of these reasons I 'borrowed' a 3.2 cubic foot refrigerator and jam-packed it full of processors, sensors, electricity,
 dirt, nutrients and water to build a learning, fully-automated indoor garden system.
