@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Plan - Indoor Garden Automation"
+title:  "Introducing ChloroBot - The Automated Indoor Garden"
 date:  Fri Nov  3 10:21:01 EST 2017
 categories: ideas horticulture autonomous raspberry pi amazon diy
 ---
@@ -42,9 +42,10 @@ gardeners might use their mobile phone to provision a configuration for whicheve
 * share configurations ("grow plan") with other users
 * monitor air and soil health
 * low cost, high efficiency
+* eliminate odours with a blower & carbon filter
 
 
-### Here are some baby photos
+### Here are some photos
 
 
 <img src="/images/fulls/01.jpg" class="fit image">
