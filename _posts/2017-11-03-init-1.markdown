@@ -13,7 +13,7 @@ TL;DR - This is a log of my attempt to build an indoor, open source, automated s
 
 It's cold in Toronto; I love hot peppers, I also kill plants.  I want to be able to grow the best hot peppers year-round.
 
-Because of these reasons I 'borrowed' a 3.2 cubic foot refrigerator and jam-packed it full of processors, sensors, electricity,
+Because of these reasons I modified a 3.2 cubic foot refrigerator and jam-packed it full of processors, sensors, electricity,
 dirt, nutrients and water to build a learning, fully-automated indoor garden system.
 
 A Rasberry Pi controls :
@@ -37,7 +37,7 @@ gardeners might use their mobile phone to provision a configuration for whicheve
 ### Project goals
 
 * control moisture and temperature in soil
-* control a UV, IR and 'full-spectrum' light source
+* control a UV, IR and 'full-spectrum' light source(s)
 * camera capture growth progress with ability to 'time-lapse' and view in real-time
 * share configurations ("grow plan") with other users
 * monitor air and soil health
