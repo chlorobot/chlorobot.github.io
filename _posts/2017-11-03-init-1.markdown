@@ -84,6 +84,7 @@ dirt, nutrients and water to build a learning, fully-automated indoor garden sys
 * Install new 300w LED matrix
 * Investigate replacing dirt with either polyurethane grow slabs or maybe clay pellets
 * Replace NOOBS image with headless Debian on the Pi
+* Find two basins that actually fit within the unit, one for water reservoir and one for the soil.
 
 ... and probably much more.
 
