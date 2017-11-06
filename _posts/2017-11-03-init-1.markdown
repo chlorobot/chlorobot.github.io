@@ -9,6 +9,28 @@ TL;DR - This is a log of my attempt to build an indoor, open source, automated s
 
 Full disclosure : All links to Amazon are affiliate links, products I myself have purchased. Consider it a way of keeping this site ad-free.
 
+### What?
+
+It's cold in Toronto; I love hot peppers, I also kill plants.  I want to be able to grow the best hot peppers year-round with ease.
+
+Because of these reasons I 'borrowed' a 3.2 cubic foot refrigerator and jam-packed it full of processors, sensors, electricity,
+dirt, nutrients and water to build a learning, fully-automated indoor garden system.
+
+A Rasberry Pi controls :
+
+* Water flow / soil humidity
+* Fan speed
+* Soil temperature
+* Lighting
+* Aeration of water
+* Camera (just because)
+* Probably more things ... soon
+
+Maybe in the future more people will want something like this so I'm indexing the settings for each type of plant I grow
+- in hopes a community of gardeners might use their mobile phone to provision a configuration for whichever plant they are growing
+using their own modified refrigerator.
+
+
 ### Project goals :
 
 * control moisture and temperature in soil
@@ -61,3 +83,5 @@ Full disclosure : All links to Amazon are affiliate links, products I myself hav
 <iframe style="width:50%; float:left" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-na.amazon-adsystem.com/e/cm?ref=tf_til&t=chlorobot-20&m=amazon&o=15&p=8&l=as1&IS1=1&asins=B071P491G8&linkId=99bae0923ef378b48ce5ecac9fa5327b&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr"></iframe>
 <!-- fan -->
 <iframe style="width:50%; float:left" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-na.amazon-adsystem.com/e/cm?ref=tf_til&t=chlorobot-20&m=amazon&o=15&p=8&l=as1&IS1=1&asins=B06WRTX42Y&linkId=fe993e833b4bd7b496cbd503976ae275&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr"></iframe>
+
+
