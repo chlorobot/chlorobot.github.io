@@ -34,7 +34,7 @@ Maybe in the future more people will want something like this so I'm indexing th
 gardeners might use their mobile phone to provision a configuration for whichever plant they are growing using their own 'ChloroBot'.
 
 
-### Project goals :
+### Project goals
 
 * control moisture and temperature in soil
 * control a UV, IR and 'full-spectrum' light source
@@ -42,6 +42,9 @@ gardeners might use their mobile phone to provision a configuration for whicheve
 * share configurations ("grow plan") with other users
 * monitor air and soil health
 * low cost, high efficiency
+
+
+### Here are some baby photos
 
 
 <img src="/images/fulls/01.jpg" class="fit image">
