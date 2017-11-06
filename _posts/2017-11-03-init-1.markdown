@@ -7,7 +7,7 @@ categories: ideas horticulture autonomous raspberry pi amazon diy
 
 TL;DR - This is a log of my attempt to build an indoor, open source, automated system to grow plants.
 
-Full disclosure : All links to Amazon are affiliate links, products I myself have purchased. Consider it a way of keeping this site ad-free.
+<img src="/images/fulls/08.jpg" class="fit image">
 
 ### What?
 
@@ -69,6 +69,9 @@ gardeners might use their mobile phone to provision a configuration for whicheve
 
 
 ### Parts List (will be updated regularly)
+
+Full disclosure : All links to Amazon are affiliate links, products I myself have purchased. Consider it a way of keeping this site ad-free.
+
 <!-- Pi -->
 <iframe style="width:50%; float:left" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-na.amazon-adsystem.com/e/cm?ref=tf_til&t=chlorobot-20&m=amazon&o=15&p=8&l=as1&IS1=1&asins=B01CD5VC92&linkId=bd056f1504499486b0f38949db360dc4&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
 <!-- Insulation -->
