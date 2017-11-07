@@ -10,3 +10,7 @@
   link: 'https://reddit.com/u/chlorobot/'
   social_icon: Reddit
   new_window: true
+- name: Hackaday
+  link: https://hackaday.io/project/28053-chlorobot
+  social_icon: link
+  new_window: true
