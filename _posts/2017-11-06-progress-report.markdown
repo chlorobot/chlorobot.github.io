@@ -30,7 +30,7 @@ Once again, this product appears to be well built, I assume it's a simple coil i
 Lastly I received a four module relay - turns out the <a href="https://www.adafruit.com/product/2935" target="_blank">Controllable Four Outlet Power Relay Module version 2</a> I bought from Adafruit
 is neutered in functionality as it's simply a single control relay with XOR across three of the four plugs. I should have done more research before buying this one.
 
-I'm kinda nervouse about working with mains electricity, I'll continue to do my research before plugging this 110v box into the wall.
+I'm kinda nervous about working with mains electricity, I'll continue to do my research before plugging this 110v box into the wall.
 
 <img src="/images/fulls/11.jpg" class="fit image">
 <em>Turning the fan on when temperature <= 23&deg;C
