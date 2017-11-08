@@ -60,7 +60,7 @@ So three wires aren't that scary anymore.
 <img src="/images/fulls/relay.jpg" class="fit image" />
 <em>Here's a single module relay to simplify the idea</em>
 
-On the relay controller side (thi side opposite the wire screws for a single module relay) you'll find three pins.
+On the relay controller side (the side opposite the wire screws for a single module relay) you'll find three pins.
 
 VCC and GND should look pretty familiar, apply 5v to the VCC and GND pin on the Pi to the GND on the relay and you're set.
 
