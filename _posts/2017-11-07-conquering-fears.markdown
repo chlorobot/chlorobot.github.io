@@ -11,8 +11,8 @@ I've been rather timid to hook up my new 300w light to the mains relay system - 
 I was considering a friend help me rig this up as I didn't trust myself to do it correctly.
 
 After spending a lot of time researching electrical safety and how to deal with high voltage I finally
-said "just get it over with", strapped on my rubber gloves and rigged up a **functional**
-relay to control all four of my high voltage outputs [lights, heat mat, PSU, aerator].
+said "just get it over with", strapped on my rubber gloves and hooked up a **functional**
+relay to control all four of the high voltage outputs [lights, heat mat, PSU, aerator].
 
 Here's a short video demonstrating a simple thing that happens to be a big deal to me
 
