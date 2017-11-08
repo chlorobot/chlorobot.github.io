@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Conquering Fears"
-date:  Tue Nov  7 23:07:54 EST 2017
+date: Tue Nov 7 23:07:54 EST 2017
 categories: electricity scary mains voltage relay
 ---
 

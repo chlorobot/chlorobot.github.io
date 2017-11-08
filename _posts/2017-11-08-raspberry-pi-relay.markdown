@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Controlling Raspberry Pi Relays"
-date:  Wed Nov  8 00:10:57 EST 2017
+date: Wed Nov 8 00:10:57 EST 2017
 categories: raspberry pi relay wiring
 ---
 
