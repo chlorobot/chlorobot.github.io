@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Controlling Raspberry Pi Relays"
+title:  "Understanding and Controlling Relays with a Raspberry Pi"
 date: Wed Nov 8 00:10:57 EST 2017
 categories: raspberry pi relay wiring
 ---
