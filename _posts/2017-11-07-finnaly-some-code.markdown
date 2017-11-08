@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Make Hay While the Sun Shines"
+title:  "Make ChloroBot While the Sun Shines"
 date:  Tue Nov  7 21:52:15 EST 2017
 categories: django api websockets channels asgi
 ---
