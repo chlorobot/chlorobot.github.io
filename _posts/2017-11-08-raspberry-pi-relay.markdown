@@ -38,9 +38,11 @@ Relays have three leads :
 
 These are represnted like :
 
-												   L       LL
-	This side is mostly disconnected all the time  |______/ |  This side is usually connected.
-	                                               NO   COM NC
+	Where 'L' means 'lead' or where you'd attach a wire
+
+										   L       LL
+	This side is usually disconnected  ->  |______/ |   <-  This side is usually connected.
+	                                       NO   COM NC
 
 You have two options :
 
