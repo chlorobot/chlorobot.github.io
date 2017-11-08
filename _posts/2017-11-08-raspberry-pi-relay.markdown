@@ -21,8 +21,8 @@ used to.
 
 ### Now in my 30's...
 
-More than two wires is still confusing to me, despite the 14+ years programming and system engineering -
-electrical engineering is Greek or Chinese or something that I've absolutely no idea about.
+More than two wires are still confusing to me, despite the 14+ years programming and system engineering -
+electrical engineering is Greek... or Chinese... or something that I've absolutely no idea about.
 
 ### Get to the point, IDC about that
 
