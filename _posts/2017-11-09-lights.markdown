@@ -4,7 +4,7 @@ title:  "New Lights Installed"
 date: Thu Nov  9 08:29:54 EST 2017
 categories: growlight spectrum
 ---
-Just a quick post from last night before I go into work - the new ballast is hung.
+Just a quick post from last night before I go into work - the new lights are hung.
 
 <img src="/images/fulls/inside.jpg"  class="fit image "/>
 
