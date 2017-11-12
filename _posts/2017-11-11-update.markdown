@@ -15,6 +15,9 @@ Despite looking cool this fan really doesn't have much push.
 
 <img src="/images/fulls/fan.jpg"  class="fit image "/>
 
+### Here's a freeboard + dweet.io of the curent temperature and humidity (updated every 5s)
+<iframe src="https://freeboard.io/board/Ra2NM_" style="border:none; width:100%; height:500px;"></iframe>
+
 Lastly I think I'll partake in the annual <a target="_blank" href="https://www.reddit.com/r/HotPeppers/comments/7c33ef/the_long_awaited_great_northern_hemisphere_pepper/">"The Long Awaited Great Northern Hemisphere Pepper Competition"</a>
 
 -ast
