@@ -5,7 +5,7 @@ categories: solder adafruit sensor ultraviolet
 date: Sun Nov 12 15:45:36 EST 2017
 ---
 
-I wanted to share my first attempt soldering on a chip - I had to borrow my sons eye-glasses for this oon.
+I wanted to share my first attempt soldering on a chip - I had to borrow my sons eye-glasses for this on.
 
 This is a <a target="_blank" href="https://www.amazon.ca/gp/product/B01K9GT4WE/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B01K9GT4WE&linkCode=as2&tag=chlorobot-20&linkId=3266b993f62cf9badbedf3d121ab7e67">Adafruit VEML6070 UV Index Sensor Breakout</a><img src="//ir-ca.amazon-adsystem.com/e/ir?t=chlorobot-20&l=am2&o=15&a=B01K9GT4WE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
