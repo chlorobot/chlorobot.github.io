@@ -17,9 +17,12 @@ to be extremely happy.
 <img src="/images/fulls/seedling.jpg"  class="fit image "/>
 
 I've now added 1/4" sheathing to all sensor wiring to couple both temp/RH as well as UV and motor power cables.
+<img src="/images/fulls/mister.jpg"  class="fit image "/>
 
 Home depot sells some 1/2" 'misting' fittings which happen to work perfectly with my 12v 0.7A water pump.  
 I'm still searching for a reservoir that will fit along the back wall of the cabinet.
+
+<img src="/images/fulls/seedling2.jpg"  class="fit image "/>
 
 Next up is finishing the mains relay controller and figuring out a way to house the electronics.
 
