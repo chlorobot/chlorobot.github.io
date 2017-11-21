@@ -1,0 +1,26 @@
+---
+layout: post
+title: Hardware modification and status update
+categories: germination
+date: Mon Nov 20 23:59:44 EST 2017
+---
+
+Running the lights within the cabinet caused dry, arid heat that probably wasn't ideal especially for seedlings.
+
+With the help of a friend and a rotary tool we were able to trim a hole in the top of the cabinet for the light
+to rest atop.
+
+Temperature and humidity within the cabinet are now much more controllable with the top fan and the plants appear
+to be extremely happy.
+
+<img src="/images/fulls/light-top.jpg"  class="fit image "/>
+<img src="/images/fulls/seedling.jpg"  class="fit image "/>
+
+I've now added 1/4" sheathing to all sensor wiring to couple both temp/RH as well as UV and motor power cables.
+
+Home depot sells some 1/2" 'misting' fittings which happen to work perfectly with my 12v 0.7A water pump.  
+I'm still searching for a reservoir that will fit along the back wall of the cabinet.
+
+Next up is finishing the mains relay controller and figuring out a way to house the electronics.
+
+-ast
