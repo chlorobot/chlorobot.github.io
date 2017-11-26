@@ -19,13 +19,15 @@ Here's a photo of the current state of the development board.
 
 What's left to do?
 
-* Re-solder the temperature and UV sensors male jumper straps - connect once again to the Pi.
-* Mylar tape the sensors into place, patch a hole in the back left corner.
-* Configure i2c Chirp soil humidity sensor (once it arrives from Lithuania)
-* Mount the water pump along the back wall.
-* Find some kind of plastic sump / reservoir that wont be affected by light nor contaminate the water.
-* Position the watering nozzle so it doesn't spray everywhere and possibly electrocute someone or flood my place.
-* Fix the controller board along the back of the unit so it's out of sight.
+
+- Re-solder the temperature and UV sensors male jumper straps - connect once again to the Pi.
+- Mylar tape the sensors into place, patch a hole in the back left corner.
+- Configure i2c Chirp soil humidity sensor (once it arrives from Lithuania)
+- Mount the water pump along the back wall.
+- Find some kind of plastic sump / reservoir that wont be affected by light nor contaminate the water.
+- Position the watering nozzle so it doesn't spray everywhere and possibly electrocute someone or flood my place.
+- Fix the controller board along the back of the unit so it's out of sight.
+
 
 I'll update with more information when I have more time.
 
