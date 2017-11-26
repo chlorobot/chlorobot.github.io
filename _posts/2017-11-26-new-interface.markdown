@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Basic Web Interface and Completed Relay Controller"
-date: Sun Nov 26 13:37:43 EST 2017
 categories: relay python flask
+date: Sun Nov 26 13:37:43 EST 2017
 ---
 
 After building the four module relay to control mains electricity I put together a basic web interface to toggle all six relays.
 
-[Source code is available here](https://github.com/chlorobot/chlorobot-basic-admin/)
+<a href="https://github.com/chlorobot/chlorobot-basic-admin/" target="_blank">Source code is available here.</a>
 
 <img src="https://github.com/chlorobot/chlorobot-basic-admin/raw/master/screenshot.png" class="fit image">
 
