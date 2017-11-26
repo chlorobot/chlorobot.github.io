@@ -9,11 +9,23 @@ After building the four module relay to control mains electricity I put together
 
 <img src="https://github.com/chlorobot/chlorobot-basic-admin/raw/master/screenshot.png"  class="fit image "/>
 
-<a href="https://github.com/chlorobot/chlorobot-basic-admin/" target="_blank">Source code is available here</a>
+<a href="https://github.com/chlorobot/chlorobot-basic-admin/" target="_blank">Source code is available here.</a>
 
-Here's a photo of the development board.
+
+Here's a photo of the current state of the development board.
 
 <img src="/images/fulls/relay3.jpg"  class="fit image "/>
+
+
+What's left to do?
+
+* Re-solder the temperature and UV sensors male jumper straps - connect once again to the Pi.
+* Mylar tape the sensors into place, patch a hole in the back left corner.
+* Configure i2c Chirp soil humidity sensor (once it arrives from Lithuania)
+* Mount the water pump along the back wall.
+* Find some kind of plastic sump / reservoir that wont be affected by light nor contaminate the water.
+* Position the watering nozzle so it doesn't spray everywhere and possibly electrocute someone or flood my place.
+* Fix the controller board along the back of the unit so it's out of sight.
 
 I'll update with more information when I have more time.
 
