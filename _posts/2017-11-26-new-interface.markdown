@@ -24,7 +24,6 @@ After building the four module relay to control mains electricity I put together
 - Position the watering nozzle so it doesn't spray everywhere and possibly electrocute someone or flood my place.
 - Fix the controller board along the back of the unit so it's out of sight.
 
-I'll update with more information when I have more time.
 
 
 -ast
